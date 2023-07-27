@@ -40,7 +40,7 @@ Feel free to ask me anything; I'm always happy to help! 😊
 </a>
 
 <a href="mailto:guptesutkarsha@gmail.com">
-  <img align="left" alt="Email" width="40px" src="/images/Email_Logo.png?raw=true" />
+  <img align="left" alt="Email" width="40px" src="/images/Email_Logos.png?raw=true" />
 </a>
 
 
