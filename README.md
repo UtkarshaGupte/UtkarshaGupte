@@ -2,14 +2,17 @@
 
 Hey there 👋,
 
-I'm [Utkarsha Gupte]([url](https://www.linkedin.com/in/utkarshagupte/)) , a Software Engineer and Data Scientist with a passion for solving complex problems and creating innovative solutions. My expertise lies in Python programming, machine learning, and full-stack web development. I love to explore new technologies and leverage them to build meaningful applications.
+I'm [Utkarsha Gupte](https://www.linkedin.com/in/utkarshagupte/) , a Software Engineer and Data Scientist with a passion for solving complex problems and creating innovative solutions. My expertise lies in Python programming, machine learning, and full-stack web development. I love to explore new technologies and leverage them to build meaningful applications.
 
 ### 👨‍💻 Work Summary:
 
+```
 I have a strong background in both software development and data science. I have worked as a Software Development Engineer at Accenture Solutions Pvt. Ltd., where I played a key role in automating processes, improving system security, and enhancing database efficiency. During my time as a Software Engineer, I also architected services, formulated complex SQL queries, and streamlined documentation processes.
+```
 
+```
 In addition, I have experience as a Data Scientist, where I applied advanced statistical and machine learning techniques to predict trends in skill migration. I have also worked on projects related to car price prediction and loan approval, utilizing various machine learning models and building user-friendly UIs.
-
+```
 
 ### 📚 Education:
 
@@ -30,9 +33,16 @@ GPA: 9.48/10
 Programming Languages: Python, JavaScript
 Databases: MySQL, MongoDB
 Frameworks/Tools: NodeJS, ExpressJS
-📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 
 Utkarsha's GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshaGupte&show_icons=true&theme=gotham" alt="UtkarshaGupte" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshaGupte&show_icons=true&theme=gotham&langs_count=8&layout=compact"/>
+</p>
+
 
 ### 📈 Projects:
 
@@ -65,6 +75,7 @@ LinkedIn: https://www.linkedin.com/in/utkarshagupte/
 LeetCode: https://leetcode.com/utkarsha_gupte/
 
 Feel free to ask me anything; I'm always happy to help! 😊
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
