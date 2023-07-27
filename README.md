@@ -32,18 +32,13 @@ Dorabji Tata Scholarship Holder for consecutive 3 years during the Bachelor of E
 
 Feel free to ask me anything; I'm always happy to help! 😊
 
+
+
+
 ### 📫 How to reach me 👇:
 
 <a href="https://www.linkedin.com/in/utkarshagupte/">
   <img align="left" alt="LindedIn" width="40px" src="/images/LinkedIn_Logo.png?raw=true" />
-</a>
-
-<a href="https://leetcode.com/utkarsha_gupte/">
-  <img align="left" alt="LeetCode" width="40px" src="/images/Leetcode_Logo.png?raw=true" />
-</a>
-
-<a href="https://utkarshagupte.netlify.app/">
-  <img align="left" alt="Portfolio" width="40px" src="/images/Portfolio_Logo.png?raw=true" />
 </a>
 
 <a href="mailto:guptesutkarsha@gmail.com">
