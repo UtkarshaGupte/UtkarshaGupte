@@ -6,14 +6,14 @@ I'm [Utkarsha Gupte](https://www.linkedin.com/in/utkarshagupte/) , a Software En
 
 ### 👨‍💻 Work Summary:
 
-I have a strong background in both software development and data science. I have worked as a Software Development Engineer at Accenture Solutions Pvt. Ltd., where I played a key role in automating processes, improving system security, and enhancing database efficiency. During my time as a Software Engineer, I also architected services, formulated complex SQL queries, and streamlined documentation processes.
+> I have a strong background in both software development and data science. I have worked as a Software Development Engineer at Accenture Solutions Pvt. Ltd., where I played a key role in automating processes, improving system security, and enhancing database efficiency. During my time as a Software Engineer, I also architected services, formulated complex SQL queries, and streamlined documentation processes.
 
-In addition, I have experience as a Data Scientist, where I applied advanced statistical and machine learning techniques to predict trends in skill migration. I have also worked on projects related to car price prediction and loan approval, utilizing various machine learning models and building user-friendly UIs.
+> In addition, I have experience as a Data Scientist, where I applied advanced statistical and machine learning techniques to predict trends in skill migration. I have also worked on projects related to car price prediction and loan approval, utilizing various machine learning models and building user-friendly UIs.
 
 
-Programming Languages: Python, JavaScript
-Databases: MySQL, MongoDB
-Frameworks/Tools: NodeJS, ExpressJS
+* Programming Languages: Python, JavaScript
+* Databases: MySQL, MongoDB
+* Frameworks/Tools: NodeJS, ExpressJS
 
 ### 📊 GitHub Stats:
 
@@ -27,12 +27,10 @@ Utkarsha's GitHub Stats
 
 ### 🏆 Awards:
 
-Recipient of JSOM Dean’s Excellence Scholarship for excellent academic performance in Master of Science program at UTD.
-Dorabji Tata Scholarship Holder for consecutive 3 years during the Bachelor of Engineering program in India.
+> Recipient of JSOM Dean’s Excellence Scholarship for excellent academic performance in Master of Science program at UTD.
+> Dorabji Tata Scholarship Holder for consecutive 3 years during the Bachelor of Engineering program in India.
 
 Feel free to ask me anything; I'm always happy to help! 😊
-
-
 
 
 ### 📫 How to reach me 👇:
