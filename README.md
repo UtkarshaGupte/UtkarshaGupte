@@ -6,7 +6,6 @@ I'm [Utkarsha Gupte](https://www.linkedin.com/in/utkarshagupte/) , a Software En
 
 ### 👨‍💻 Work Summary:
 
-
 I have a strong background in both software development and data science. I have worked as a Software Development Engineer at Accenture Solutions Pvt. Ltd., where I played a key role in automating processes, improving system security, and enhancing database efficiency. During my time as a Software Engineer, I also architected services, formulated complex SQL queries, and streamlined documentation processes.
 
 In addition, I have experience as a Data Scientist, where I applied advanced statistical and machine learning techniques to predict trends in skill migration. I have also worked on projects related to car price prediction and loan approval, utilizing various machine learning models and building user-friendly UIs.
