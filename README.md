@@ -39,7 +39,7 @@ Feel free to ask me anything; I'm always happy to help! 😊
 </a>
 
 <a href="https://leetcode.com/utkarsha_gupte/">
-  <img align="left" alt="LeetCode" width="40px" src="/images/LeetCode_Logo.png?raw=true" />
+  <img align="left" alt="LeetCode" width="40px" src="/images/Leetcode_Logo.png?raw=true" />
 </a>
 
 <a href="https://utkarshagupte.netlify.app/">
