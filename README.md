@@ -11,7 +11,7 @@ I'm [Utkarsha Gupte](https://www.linkedin.com/in/utkarshagupte/) , a Software En
 > In addition, I have experience as a Data Scientist, where I applied advanced statistical and machine learning techniques to predict trends in skill migration. I have also worked on projects related to car price prediction and loan approval, utilizing various machine learning models and building user-friendly UIs.
 
 
-* Programming Languages: Python, JavaScript
+* Programming Languages: Python, JavaScript, TypeScript
 * Databases: MySQL, MongoDB
 * Frameworks/Tools: NodeJS, ExpressJS
 
