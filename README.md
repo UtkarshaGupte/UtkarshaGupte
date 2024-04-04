@@ -6,9 +6,11 @@ I'm [Utkarsha Gupte](https://www.linkedin.com/in/utkarshagupte/) , a Software En
 
 ### 👨‍💻 Work Summary:
 
-> I have a strong background in both software development and data science. I have worked as a Software Development Engineer at Accenture Solutions Pvt. Ltd., where I played a key role in automating processes, improving system security, and enhancing database efficiency. During my time as a Software Engineer, I also architected services, formulated complex SQL queries, and streamlined documentation processes.
+> I am a skilled backend software engineer with 4+ years of experience building scalable applications and optimizing solutions using Python, JavaScript, NodeJS, and SQL. I have completed my Master's in Information Technology and Management from UT Dallas with a 4.0 GPA. Most recently as an intern at Faros, I spearheaded developing new platform modules end-to-end using TypeScript, GraphQL, dbt, and SQL to deliver innovative products and accelerate business growth.
 
 > In addition, I have experience as a Data Scientist, where I applied advanced statistical and machine learning techniques to predict trends in skill migration. I have also worked on projects related to car price prediction and loan approval, utilizing various machine learning models and building user-friendly UIs.
+
+> I am most passionate about leveraging my diverse skillset and innovative mindset to contribute to cutting-edge solutions. I am looking for opportunities to apply my strengths in software engineering to build products that make a difference. 
 
 
 * Programming Languages: Python, JavaScript, TypeScript
