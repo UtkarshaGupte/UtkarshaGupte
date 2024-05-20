@@ -1,8 +1,8 @@
-# Utkarsha Gupte | Software Engineer and Data Scientist
+# Utkarsha Gupte | Software Engineer
 
 Hey there 👋,
 
-I'm [Utkarsha Gupte](https://www.linkedin.com/in/utkarshagupte/) , a Software Engineer and Data Scientist with a passion for solving complex problems and creating innovative solutions. My expertise lies in Python programming, machine learning, and full-stack web development. I love to explore new technologies and leverage them to build meaningful applications.
+I'm [Utkarsha Gupte](https://www.linkedin.com/in/utkarshagupte/) , a Software Engineer with a passion for solving complex problems and creating innovative solutions. My expertise lies in Python programming, machine learning, and full-stack web development. I love to explore new technologies and leverage them to build meaningful applications.
 
 ### 👨‍💻 Work Summary:
 
